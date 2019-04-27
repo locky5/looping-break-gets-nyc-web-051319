@@ -1,5 +1,8 @@
 def levitation_quiz
-	#your code here
+	loop do
+	  puts "Wingardium Leviosa"
+	  answer = gets.chomp 
+	  break if answer == 
 end
 
 
